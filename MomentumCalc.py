@@ -1,4 +1,4 @@
-print("Momentum Calculator by Allison Miranda")
+print("Momentum Calculator by Allison")
 
 user_input = int(input("Number of objects in system: "))
 
